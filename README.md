@@ -54,9 +54,6 @@ import pandas as pd
 
 O código conta com a função `convert_columns_to_float` que converte as colunas de valores para float.
 
-```
-
-
 # Arquivo auxiliar
 
 Deixei um arquivo chamado `municipios.xlsx` para auxiliar com os nomes dos municípios de cada estado, para facilitar a coleta de dados. Além dos nomes, também tem o código IBGE para futuras análises ou cruzamento de dados. 
